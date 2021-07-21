@@ -1,0 +1,12 @@
+[
+    {
+        "FirstName": "Hiren",
+        "LastName": "Patel",
+        "DateOfBirth": "10/27/1994",
+        "Gender": "Male",
+        "Address": "77,Roayal Sq,Stocks Street,USA",
+        "State": "Las Vegas",
+        "Country": "USA",
+        "Pincode": "9485628"
+    }
+]
